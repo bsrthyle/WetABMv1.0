@@ -1,7 +1,7 @@
 
 <div id="WetABM-logo" align="center">
     <br />
-    <img src="/images/Untitled3.svg" width="300" height="200"/>
+    <img src="images/Untitled3.svg" width="300" height="200"/>
     <h1>WetABM</h1>
     <h3>A Repository of WetABM- a spatially explicit agent based model for Kilombero valley flood plain</h3>
     <a href = "mailto:bisrat.gebrekidan@ilr.uni-bonn.de">Bisrat Haile Gebrekidan </a>, Dr. Sebastian Rash, Prof. Dr. Thomas Heckelie
@@ -50,7 +50,7 @@ with further sub modules that provide specific functions and behaviours related 
 
 ---
 
-  <img src="/images/BBNCreator.svg" width="1300" height="450"/>
+  <img src="images/BBNCreator.svg" width="1300" height="450"/>
 
 ---
 
