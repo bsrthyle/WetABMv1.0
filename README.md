@@ -1,7 +1,7 @@
 
 <div id="WetABM-logo" align="center">
     <br />
-    <img src="images/Untitled3.svg" width="300" height="200"/>
+    <img src="images/wetAbmLogo.svg" width="300" height="200"/>
     <h1>WetABM</h1>
     <h3>A Repository of WetABM- a spatially explicit agent based model for Kilombero valley flood plain</h3>
     <a href = "mailto:bisrat.gebrekidan@ilr.uni-bonn.de">Bisrat Haile Gebrekidan </a>, Dr. Sebastian Rasch, Prof. Dr. Thomas Heckelei
@@ -38,7 +38,7 @@ with further sub modules that provide specific functions and behaviours related 
 # Modelling Framework   
 
 
-![](images/framework2.PNG) 
+![](images/concept4.png) 
 
 
 ---
@@ -55,7 +55,7 @@ with further sub modules that provide specific functions and behaviours related 
 ---
 
 # License
-The current version of the model is built only for acadamic purpose. It part of Bisrats doctoral thesis at University of Bonn, [Institute of food and Resource Economics](#). The model is composed of a number of third party libraries, some of which are commercial(`NeticaJ`). The use of the model is subject to licence agreement of the respective library. 
+The current version of the model is built only for acadamic purpose. It part of Bisrats doctoral dissertation  at Institute for Food and Resource Economics(ILR), University of Bonn, [Institute of food and Resource Economics](https://www.ilr1.uni-bonn.de/en). The model is composed of a number of third party libraries, some of which are commercial(`NeticaJ`). The use of the model is subject to licence agreement of the respective library. 
 
 ---
 
