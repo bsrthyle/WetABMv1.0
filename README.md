@@ -55,7 +55,7 @@ with further sub modules that provide specific functions and behaviours related 
 ---
 
 # License
-The current version of the model is built only for acadamic purpose. It part of Bisrats doctoral dissertation  at Institute for Food and Resource Economics(ILR), University of Bonn, [Institute of food and Resource Economics](https://www.ilr1.uni-bonn.de/en). The model is composed of a number of third party libraries, some of which are commercial(`NeticaJ`). The use of the model is subject to licence agreement of the respective library. 
+The current version of the model is built only for acadamic purpose. It part of Bisrats doctoral dissertation  at [Institute of food and Resource Economics(ILR)](https://www.ilr1.uni-bonn.de/en), University of Bonn. The model is composed of a number of third party libraries, some of which are commercial(`NeticaJ`). The use of the model is subject to licence agreement of the respective library. 
 
 ---
 
